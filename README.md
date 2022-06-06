@@ -6,7 +6,7 @@
 <h4 align="center"> 
   
 <h4 align="center">
-   # Go Trip - Social Network para amantes de viagens
+** Go Trip - Social Network para amantes de viagens**
 </h4>
 
 ## Índice
@@ -32,11 +32,11 @@ OBS: Para testar a aplicação sem que seja necessário criar um usuário basta 
 ## 2. Histórias de usuários
 ---
 ### História 1
-> "Como viajante iniciante gostaria de interagir em uma rede social destinada para tal finalidade onde possa me conectar com outras pessoas para sanar minhas dúvidas referente ao tema da rede social e para isso é necessário fazer cadastro de usuário com email e senha válidos."
+> "Como viajante iniciante gostaria de interagir em uma rede social destinada a pessoas que gostam de trocar experiências sobre viagens e assim poder pegar dicar de roteiros.
 ### História 2
 > "Eu como um viajante experiente gostaria de acessar a rede social com meu email e senha válidos e poder compartilhar através de publicações minhas experiências de viagens."
 ### História 3
-> "Desejo me conectar com outras pessoas e tirar minhas dúvidas e curtir/dar like em publicações que possuem relevância para mim."
+> "Desejo me conectar com outras pessoas, tirar minhas dúvidas e curtir/dar like em publicações que possuem relevância para mim."
 
 ## 2.1 Personas 
 ---
